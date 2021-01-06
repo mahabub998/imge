@@ -1,0 +1,75 @@
+body{
+    font-size:  30px;
+}
+.highlight{
+    color: navy;
+}
+.highlight2{
+    color:tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+
+}
+.half-width img{
+    width: 50%;
+}
+.link-button{
+    background-color: tomato;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.middel{
+    float: left;
+}
+.link2{
+    background-color: tomato;
+    padding:10px 20px;
+    border-radius: 10px;
+    
+
+}
+.working-project{
+    text-align: center;
+}
+.pic-section img{
+    width:400px ;
+    
+    
+}
+.working-area{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin-left:30px;
+    padding: 5px;
+    box-shadow: 20px 10px 40px gray;
+    border-radius: 10px;
+    
+}
+.work-inquray{
+    width: 70%;
+    margin:170px
+    
+}
+.work{
+    
+        margin-left: 22%;
+        position: absolute;
+        margin-top: 18%;
+}
+.button{
+    position: absolute;
+    background-color: rgb(202, 186, 154);
+    border-radius: 5px;
+    padding: 15px 25px;
+    margin-left: 64%;
+    margin-top: 18%;
+
+
+}
+   
+
+
