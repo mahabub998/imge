@@ -17,6 +17,7 @@ body{
     width: 50%;
 }
 .link-button{
+    text-decoration: none;
     background-color: tomato;
     padding: 10px 25px;
     border-radius: 5px;
