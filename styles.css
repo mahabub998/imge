@@ -57,18 +57,20 @@ body{
     width: 70%;
     margin:300px;
     
+    
 }
 .work{
     
     margin-left: 22%;
     position: absolute;
     margin-top: 23%;
+    color:wheat;
 }
 .button{
     position: absolute;
-    background-color: white;
+    background-color: tomato;
     border-radius: 10px;
-    padding: 25px 35px;
+    padding: 30px 40px;
     margin-left: 71%;
     margin-top: 22%;
 
