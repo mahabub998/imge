@@ -34,6 +34,10 @@ body{
 .working-project{
     text-align: center;
 }
+    .text-highlight{
+        
+   color: tomato;
+}
 .pic-section img{
     width:400px ;
     
